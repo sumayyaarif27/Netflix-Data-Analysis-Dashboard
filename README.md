@@ -2,7 +2,7 @@
 
 A data analysis project where I explored Netflix's content catalog — cleaned the raw data, ran an exploratory analysis in Python, wrote some SQL queries, and built an interactive Power BI dashboard on top of it all.
 
-![Dashboard](images/dashboard.png)
+![Dashboard](Images/dashboard.png)
 
 ## About the Project
 
