@@ -6,7 +6,7 @@ A data analysis project where I explored Netflix's content catalog — cleaned t
 
 ## About the Project
 
-I wanted to understand how Netflix's content library has grown over the years — what kind of content they add, which countries produce the most titles, what genres dominate, and how movies compare to TV shows. This project goes through the full process: starting from a messy raw CSV, cleaning it up in Python, exploring it with charts, querying it in SQL, and finally putting it all together in a dashboard.
+I wanted to understand how Netflix's content library has grown over the years what kind of content they add, which countries produce the most titles, what genres dominate, and how movies compare to TV shows. This project goes through the full process: starting from a messy raw CSV, cleaning it up in Python, exploring it with charts, querying it in SQL, and finally putting it all together in a dashboard.
 
 **A quick snapshot of the data:**
 - 8,789 titles in total
@@ -14,11 +14,11 @@ I wanted to understand how Netflix's content library has grown over the years �
 - Content goes up to release year 2021
 - 123 different country combinations show up in the data
 
-## Tools I Used
-
-- **Python** (Pandas, Matplotlib, Seaborn) — for cleaning the data and exploring it
-- **SQL** (SQLite) — for querying the cleaned data
-- **Power BI** — for the final interactive dashboard
+## Tools Used
+- Excel – initial data exploration
+- Python (Pandas) – data cleaning & EDA
+- SQL (DB Browser for SQLite) – business analysis queries
+- Power BI – interactive dashboard
 
 ## Folder Structure
 
